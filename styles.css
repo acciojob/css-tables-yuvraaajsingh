@@ -1,1 +1,11 @@
 /*  your css code here. If applicable */
+td,th{
+	border:1px solid #ccc;
+	border-radius:5px;
+}
+.odd{
+	background-color:#f2f2f2;
+}
+.even{
+	background-color:#ffffff;
+}
